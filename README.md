@@ -1,2 +1,2 @@
 # External-Order
-Trabalho Prático 1 de Algoritmos e Estruturas de Dados III
+Trabalho Prático 1 da disciplina Algoritmo e Estrutura de Dados III (UNIVERSIDADE FEDERAL DE MINAS GERAIS)
